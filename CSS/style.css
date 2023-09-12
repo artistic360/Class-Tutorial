@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Lobster&display=swap');
+
+/* @font-face { */
+    /* font-family: Blacklight; */
+    /* src: url(../media/fonts/blacklight.ttf); (if there is a space in link, put ' ' to work */
+/* } */
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.rectangle {
+    width: 50rem;
+    height: 30rem;
+    background: rgb(60, 62, 198);
+    position: center;
+   }
+
+.test1{
+    color: rgba(10, 10, 10, 0.862);
+    shape-margin: 50;
+    
+}
+
+.musiciansname{
+    background-color: rgb(24, 77, 93);
+    text-align: center;
+    color: aquamarine;
+    
+
+}
+
+body{
+    /* background-image: url('../Media/IMAGES/Parakeet.jpg'); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    font-family: 'Comfortaa', cursive;
+    background-color: rgba(108, 252, 228, 0.691);
+}
